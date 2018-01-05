@@ -15,3 +15,5 @@ def countdown_with_sleep(n)
     puts "#{n} SECOND(S)!"
   end
 end
+
+countdown_with_sleep()
